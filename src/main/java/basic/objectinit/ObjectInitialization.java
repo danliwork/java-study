@@ -1,4 +1,4 @@
-package basic.initorders;
+package basic.objectinit;
 
 
 public class ObjectInitialization {
